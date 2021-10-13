@@ -1,6 +1,6 @@
 - 👋 Hi, I’m my name is Adam
 - 🌱 I’m currently learning JavaScript
-- 📫 How to reach me 
+- 📫 You can reach me on:
 Discord: ADAM#6707
 Discord Server: https://discord.gg/KnV9d2ehuP
 Instagram: adam234_2
