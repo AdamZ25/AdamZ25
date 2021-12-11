@@ -1,4 +1,4 @@
-- 👋 Hi, I’m my name is Adam
+- 👋 Hi, my name is Adam
 - 🌱 I’m currently learning JavaScript
 - 📫 Discord: AD4M#6707
 <!---
