@@ -2,7 +2,7 @@
 
 - 🔍 ︲ You can reach me on Discord: AD4M#6707
 - 💻 ︲ I’m currently learning [JavaScript](https://www.javascript.com/)
-- 🔧 ︲ I’m currently working on [eXecute Development](https://discord.gg/rwnRKZMFGj)
+- 🔧 ︲ I’m currently working in [eXecute Development](https://discord.gg/rwnRKZMFGj)
 
 ### Connect with me:
 <a href="https://discord.gg/raxbKHt">
