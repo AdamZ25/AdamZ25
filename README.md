@@ -8,7 +8,7 @@
 <a href="https://discord.gg/raxbKHt">
 <img align="left" alt="Discord" width="22px" src="https://i.imgur.com/vlwuv5z.png" />
 </a>
-<a href="https://www.youtube.com/channel/UC-VWGLWyjXf-WI-37g2UiMA">
+<a href="https://www.youtube.com/channel/UCbIYcbbbG13ivI9s3FLPr6A">
 <img align="left" alt="YouTube" width="22px" src="https://imgur.com/ib6PyTV.png" />
 </a>
 <a href="https://trovo.live/xmicaX">
