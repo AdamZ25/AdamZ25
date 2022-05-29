@@ -46,5 +46,5 @@
   
   <details>
     <summary>:zap: GitHub Status (clickable)</summary>
-  <img align="center" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=executeofficial1337&show_icons=true&count_private=true&theme=blue-green" />
+  <img align="center" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=adamz25&show_icons=true&count_private=true&theme=blue-green" />
 </details>
