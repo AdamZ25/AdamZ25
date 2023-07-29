@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Adam</h1>
 
-- 🔍 ︲ You can reach me on Discord: AD4M#6707
-- 💻 ︲ I’m currently learning [JavaScript](https://www.javascript.com/)
+- 🔍 ︲ You can reach me on Discord: adamcr0
+- 💻 ︲ I’m currently learning [TypeScript](https://www.javascript.com/)/[NextJS Web Development](https://nextjs.org)
 - 🔧 ︲ I’m currently working in [eXecute Development](https://discord.gg/rwnRKZMFGj)
 
 ### Connect with me:
@@ -22,12 +22,12 @@
 </a>
 <a href="https://www.javascript.com/">
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-</a>
-<a href="https://nodejs.org/en/">
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
-</a>
 <a href="https://www.typescriptlang.org"></a>
 <img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />
+<a href="https://nodejs.org/en/">
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
+<a href="https://nextjs.org"></a>
+<img align="left" alt="Node.js" width="26px" src="https://auth0.com/blog/next-js-practical-introduction-for-react-developers-part-2/"/>
 <a href="https://cloud.mongodb.com/">
 <img align="left" alt="MongoDB" width="26px" src="https://imgur.com/jaQpBW8.png" />
 </a>
