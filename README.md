@@ -27,7 +27,7 @@
 <a href="https://nodejs.org/en/">
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
 <a href="https://nextjs.org"></a>
-<img align="left" alt="Node.js" width="26px" src="https://auth0.com/blog/next-js-practical-introduction-for-react-developers-part-2/"/>
+<img align="left" alt="Node.js" width="26px" src="https://www.svgrepo.com/show/354113/nextjs-icon.svg"/>
 <a href="https://cloud.mongodb.com/">
 <img align="left" alt="MongoDB" width="26px" src="https://imgur.com/jaQpBW8.png" />
 </a>
