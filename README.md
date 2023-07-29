@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Adam</h1>
 
 - 🔍 ︲ You can reach me on Discord: adamcr0
-- 💻 ︲ I’m currently learning [TypeScript](https://www.javascript.com/)/[NextJS Web Development](https://nextjs.org)
+- 💻 ︲ I’m currently learning [React](https://react.dev)
 - 🔧 ︲ I’m currently working in [eXecute Development](https://discord.gg/rwnRKZMFGj)
 
 ### Connect with me:
