@@ -2,7 +2,7 @@
 
 - 🔍 ︲ You can reach me on Discord: adamcr0
 - 💻 ︲ I’m currently learning [React](https://react.dev)
-- 🔧 ︲ I’m currently working in [eXecute Development](https://discord.gg/rwnRKZMFGj)
+- 🔧 ︲ I’m currently working at [eXecute Development](https://discord.gg/rwnRKZMFGj)
 
 ### Connect with me:
 <a href="https://discord.gg/raxbKHt">
